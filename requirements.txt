@@ -1,0 +1,12 @@
+google-api-python-client
+pandas
+pyarrow
+numpy
+python-dotenv
+sentence-transformers
+faiss-cpu
+transformers
+torch
+sentencepiece
+streamlit
+anthropic
